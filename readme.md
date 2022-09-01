@@ -31,7 +31,7 @@
    - [Doctor in Physics](https://physics.ui.ac.id/academic/doctor-in-physics/)
    
 ### Bandung Institute of Technology
-   https://fmipa.itb.ac.id/
+   - [Master and Doctor in Physics](https://fmipa.itb.ac.id/)
    
 ### Diponegoro University   
    - [Master in Physics](https:mf.fsm.undip.ac.id/en/home/)
@@ -41,7 +41,11 @@
    - [Master in Physics](https://pascafisika.ub.ac.id/s2/)
    - [Doctor in Physics](https://pascafisika.ub.ac.id/s3/)
    
-### 
+### Hasanuddin University
+   - [Master in Physics](http://www.phys.sci.unhas.ac.id/en/homepage/)
+
+[AFISMI](https://www.afismi.org/) dan [AIPFMI](https://www.aipfmi.org/)
+
    
    
    
