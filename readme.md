@@ -17,10 +17,11 @@
    - [Medical Physics in Indonesia - Current Status and Plans.pdf](https://github.com/qvna/ictp-poster/files/9472338/Medical.Physics.in.Indonesia.-.Current.Status.and.Plans.pdf)
    - [Overseeing the Growth of Medical Physics - Indonesia Case.pdf](https://github.com/qvna/ictp-poster/files/9472344/Overseeing.the.Growth.of.Medical.Physics.-.Indonesia.Case.pdf)
  
-### Newsletter
+### Newsletter and Publication
 
    - [AFOMP Newsletter Special Issue (June 2020).pdf](https://github.com/qvna/ictp-poster/files/9472547/AFOMP.Newsletter.Special.Issue.June.2020.pdf)
-   
+   - [IAEA Human Health Series No. 25 (2013).pdf](https://github.com/qvna/ictp-poster/files/9473449/IAEA.Human.Health.Series.No.25.2013.pdf)
+
 ### Presentation
 
    - [Manajemen SDM Fisikawan Medik di Indonesia.pdf](https://github.com/qvna/ictp-poster/files/9472384/Manajemen.SDM.Fisikawan.Medik.di.Indonesia.pdf)
@@ -46,3 +47,8 @@
 
 ### Gadjah Mada University
    - [Master in Physics](https://fisika.fmipa.ugm.ac.id/en/s2-physics/)
+
+[The Indonesian Association of Physicists in Medicine (AFISMI)](https://www.afismi.org/)
+
+[The Indonesian Alliance of Universities with Medical Physics Program (AIPFMI)](https://www.aipfmi.org/)
+ 
