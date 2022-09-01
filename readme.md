@@ -44,15 +44,5 @@
 ### Hasanuddin University
    - [Master in Physics](http://www.phys.sci.unhas.ac.id/en/homepage/)
 
-[AFISMI](https://www.afismi.org/) dan [AIPFMI](https://www.aipfmi.org/)
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+### Gadjah Mada University
+   - [Master in Physics](https://fisika.fmipa.ugm.ac.id/en/s2-physics/)
